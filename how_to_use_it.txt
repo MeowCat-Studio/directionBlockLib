@@ -1,4 +1,3 @@
-﻿
 函数表&&说明
 directionBlockAPI.createBlock(blockid,name,bool);
 //blockid应为一个字符串如"coffeeworkshop$coffee"。
